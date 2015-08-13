@@ -1,0 +1,39 @@
+1. A user can enter a 1-digit number and the app will return the correct word
+
+    Input: 1
+    Output: one
+
+2. A user can enter a number from 11-19 and the app will return the correct word
+
+    Input: 12
+    Output: twelve
+
+3. A user can enter a number from 20-99 and the app will return the correct word(s)
+
+    Input: 45
+    Output: forty-five
+
+4. A user can enter a number from 100-999 and the app will return the correct word(s)
+
+    Input: 666
+    Output: six-hundred sixty-six
+
+5. A user can enter a number from 1000-999,999 and the app will return the correct word(s)
+
+    Input: 6,666
+    Output: six-thousand six-hundred sixty-six
+
+6. A user can enter a number in the millions and the app will return the correct word(s)
+
+    Input: 1,234,567
+    Output: one million two-hundred thirty-four thousand five-hundred sixty-seven
+
+7. A user can enter a number in the billions and the app will return the correct word(s)
+
+    Input: 1,001,234,567
+    Output: one-billion one-million two-hundred thirty-four thousand five-hundred sixty-seven
+
+8. A user can enter a number in the millions and the app will return the correct word(s)
+
+    Input: 1,001,001,234,567
+    Output: one-trillion one-billion one-million two-hundred thirty-four thousand five-hundred sixty-seven
