@@ -12,6 +12,16 @@
 
             $this->assertEquals("seven", $result);
         }
+
+        function test_tensTest()
+        {
+            $test_NumberToWords = new NumberToWords;
+            $input = 13;
+
+            $result = $test_NumberToWords->numberTransformer($input);
+
+            $this->assertEquals("thirteen", $result);
+        }
     }
 
  ?>
